@@ -1,2 +1,2 @@
-﻿  main.cpp
-  P7.vcxproj -> C:\Users\class\Desktop\P7\Debug\P7.exe
+﻿  feather1.cpp
+C:\Users\class\Desktop\P7\feather1.cpp(17): error C4716: feather1: должна возвращать значение
